@@ -1,4 +1,4 @@
 [project]
-name = "oulu-wireless-measurement-system-testing-lab"
+name = "gunnchos-wireless-measurement-system-testing-lab"
 version = "0.1.0"
 requires-python = ">=3.11"
