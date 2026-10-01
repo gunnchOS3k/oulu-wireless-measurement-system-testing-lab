@@ -111,5 +111,6 @@
   "methods": "Methods are the fixture probe and schema in src/gunnchos_measurement. The only sample is results/measurement_data_sample.json with ssid fixture and rssi -65. That is fixture mode, not a field campaign. Cable calibration is still an open checklist item.",
   "cards": [],
   "runtime_mode": "PRECOMPUTED",
-  "runtime_boot": false
+  "runtime_boot": false,
+  "evidence_class": "SYNTHETIC_SIM"
 }
