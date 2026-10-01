@@ -1,0 +1,21 @@
+{
+  "repo": "oulu-wireless-measurement-system-testing-lab",
+  "productName": "Wireless measurement lab",
+  "family": "Oulu preparation",
+  "classification": "STATIC_RESEARCH_SURFACE_WORKER",
+  "acceptedSha": "ae0523c9abcdf79cf1122096ca068a9aebd153d1",
+  "status": "STAGING_WORKER",
+  "summary": "Independent portfolio lab for wireless measurement-system testing preparation.",
+  "capabilities": [
+    "Read the preparation scope",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "No Oulu affiliation is claimed",
+    "This page does not collect measurements"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/oulu-wireless-measurement-system-testing-lab",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-oulu-measurement"
+}
